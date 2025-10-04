@@ -1,0 +1,2 @@
+# Minimal requirements (Python standard library used only for now)
+# Add external dependencies here if future questions require them.

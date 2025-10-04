@@ -1,0 +1,19 @@
+=== Question C: 0/1 Knapsack Results ===
+Brute Force Optimum Value: 96
+Brute Force Chromosome: 101011001000111
+
+--- Genetic Algorithm ---
+GA Best Fitness (penalized if overweight): 96.0
+GA Feasible: True  (Value=96 Weight=25)
+GA Time (s): 0.1675
+GA Generations: 180
+GA First 15 Fitness History: [89.0, 93.0, 93.0, 94.0, 95.0, 95.0, 95.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0]
+GA Final Fitness History (last 10): [96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0]
+
+--- Beam Search ---
+Beam Best Score: 96.0
+Beam Feasible: True (Value=96 Weight=25)
+Beam Width: 40 Depth Used: 20
+Beam Time (s): 0.0000
+
+Observation: Both methods reached near-optimal solutions.

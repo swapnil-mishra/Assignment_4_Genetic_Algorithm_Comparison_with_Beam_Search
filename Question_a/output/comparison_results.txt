@@ -1,0 +1,17 @@
+=== Question A: GA vs Beam Search Comparison ===
+GA Best Fitness: 30
+GA Chromosome Length: 30
+GA Time (s): 0.015060
+GA Generations History Length: 60
+GA Early Progress (first 10 generations): [21, 24, 25, 27, 28, 28, 28, 28, 29, 30]
+
+Beam Best Fitness: 30
+Beam Time (s): 0.001565
+Beam Start Length: 30
+
+Best GA Chromosome:
+111111111111111111111111111111
+Best Beam State:
+111111111111111111111111111111
+
+Observation: Both algorithms reached the same optimal fitness.
